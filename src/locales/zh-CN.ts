@@ -458,7 +458,7 @@ export default {
     close: '关闭弹窗',
     closeTooltip: '关闭 (Esc)',
     noHotkeys: '暂无可用快捷键',
-    pressToClose: '按 ? 或 Esc 关闭此面板',
+    pressToClose: '按 Ctrl+/ 或 Esc 关闭此面板',
   },
 
   // 上传

@@ -88,9 +88,10 @@ onMounted(() => {
     }
   })
 
-  // ?: 显示/隐藏快捷键面板
+  // Ctrl+/: 显示/隐藏快捷键面板
   register({
-    key: '?',
+    key: '/',
+    ctrl: true,
     description: t('hotkeys.showHotkeys'),
     category: t('hotkeys.globalShortcuts'),
     handler: () => {

@@ -458,7 +458,7 @@ export default {
     close: 'Close dialog',
     closeTooltip: 'Close (Esc)',
     noHotkeys: 'No shortcuts available',
-    pressToClose: 'Press ? or Esc to close this panel',
+    pressToClose: 'Press Ctrl+/ or Esc to close this panel',
   },
 
   // Upload
